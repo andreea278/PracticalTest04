@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PracticalTest04</string>
+    <string name="navigate_to_activity">Navigate to activity</string>
+    <string name="top">Top</string>
+    <string name="left">Left</string>
+    <string name="right">Right</string>
+    <string name="bottom">Bottom</string>
+    <string name="nr_click">0</string>
+    <string name="register">Register</string>
+    <string name="cancel">Cancel</string>
+</resources>
